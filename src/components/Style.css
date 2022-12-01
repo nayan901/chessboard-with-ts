@@ -1,0 +1,40 @@
+.chessboardWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.board-container{
+    width: 650px;
+    height: 650px;
+    border: 1px solid gray;
+}
+
+.board{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.squares{
+    width: 12.5%;
+    height: 12.5%;
+}
+
+.squareGrid{
+    width: 100%;
+    height: 100%;
+}
+
+.squareBoard{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.knight img{
+    height: 80px;
+    width: auto;
+}
