@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nayan901/six-degrees-of-separation-with-ts/static/css/main.1fa20934.css",
+    "main.js": "/nayan901/six-degrees-of-separation-with-ts/static/js/main.3d4e871f.js",
+    "static/js/787.13f39b2a.chunk.js": "/nayan901/six-degrees-of-separation-with-ts/static/js/787.13f39b2a.chunk.js",
+    "static/media/knight.png": "/nayan901/six-degrees-of-separation-with-ts/static/media/knight.6cfb217ab5653b1b705c.png",
+    "index.html": "/nayan901/six-degrees-of-separation-with-ts/index.html",
+    "main.1fa20934.css.map": "/nayan901/six-degrees-of-separation-with-ts/static/css/main.1fa20934.css.map",
+    "main.3d4e871f.js.map": "/nayan901/six-degrees-of-separation-with-ts/static/js/main.3d4e871f.js.map",
+    "787.13f39b2a.chunk.js.map": "/nayan901/six-degrees-of-separation-with-ts/static/js/787.13f39b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa20934.css",
+    "static/js/main.3d4e871f.js"
+  ]
+}
